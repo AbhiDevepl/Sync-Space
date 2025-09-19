@@ -3,8 +3,8 @@
 **AI-Powered Virtual Company**
 
 ---
-
 ## ߚ Project Overview
+
 **Sync Space** is a futuristic AI-driven ecosystem that simulates a full company workflow.  
 Multiple AI agents—Product Manager, Project Manager, Employees, Coach, and Mentor—collaborate to manage, execute, and optimize projects end-to-end.  
 
