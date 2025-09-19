@@ -1,0 +1,17 @@
+[2025-09-19 15:54:51]
+Prompt: heyy gemini
+Response: Hey there! How can I help you today?
+
+--------------------------------------------------
+[2025-09-19 15:57:02]
+Response: Hey there! How can I help you today?
+
+--------------------------------------------------
+[2025-09-19 15:57:17]
+Response: Hey there! How's it going? What can I help you with today?
+
+--------------------------------------------------
+[2025-09-19 16:04:26]
+Response: Hey there! How can I help you today?
+
+--------------------------------------------------
